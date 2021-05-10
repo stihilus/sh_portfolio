@@ -1,0 +1,67 @@
+body {
+	font-size: 16px;
+	background-color: #004d9d;
+	color: #ffffff;
+}
+
+header {
+	position: fixed;
+	top: 20px;
+	left: 20px;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #dddddd;
+}
+
+footer {
+	position: fixed;
+	bottom: 20px;
+	left: 20px;
+}
+
+section{
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+footer a {
+	margin-right: 8px;
+}
+
+.artistTitile {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
+.artistDesc {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.socialLinks {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.image01 {
+	background-image: url("../assets/sally_1.jpg");
+}
+
+.image02 {
+	background-image: url("../assets/sally_2.jpg");
+}
+
+.image03 {
+	background-image: url("../assets/sally_3.jpg");
+}
+
+.image04 {
+	background-image: url("../assets/sally_4.jpg");
+}
